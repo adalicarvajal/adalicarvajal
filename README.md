@@ -54,7 +54,7 @@
 
 ---
 
-## 📚 Certificaciones
+## 📚 Certificados
 
 ✔ FortiGate 7.6 Operator  
 ✔ Technical Introduction to Cybersecurity  
@@ -85,7 +85,7 @@
 
 ## 🌎 Conecta conmigo
 
-📧 adalicarvajal@hotmail.com
+📧 adalicarvajal23@gmail.com
 
 <p>
 <a href="https://github.com/adalicarvajal">
