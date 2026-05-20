@@ -1,5 +1,5 @@
 <h1 align="center">⚡ Adali Carvajal ⚡</h1>
-<h3 align="center">🛡️ Analista SOC | Ciberseguridad | Ingeniera de Software 🛡️</h3>
+<h3 align="center">🛡️ Ingeniera de Software 🛡️</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Analista+de+Ciberseguridad;SOC+Monitoring;Threat+Detection;Desarrolladora+Full+Stack;Flutter+%7C+React+%7C+Spring+Boot" />
@@ -17,7 +17,6 @@
 ```
 
 💻 Ingeniera en Software apasionada por la tecnología y la ciberseguridad.  
-🛡️ Experiencia en monitoreo SOC, análisis de eventos, detección de amenazas y respuesta inicial a incidentes.  
 🌐 Desarrolladora Full Stack enfocada en soluciones web y móviles modernas.  
 ⚡ Interesada en hacking ético, inteligencia artificial, automatización y seguridad informática.
 
@@ -61,34 +60,9 @@
 
 ---
 
-# 💼 Experiencia
 
-## 🛡️ Analista SOC — NGS SecurityLogic
 
-- Monitoreo y análisis de eventos de seguridad
-- Detección de amenazas e investigación de incidentes
-- Correlación de logs y análisis de tráfico sospechoso
-- Elaboración de reportes de seguridad
-
----
-
-## 🏢 Asistente TIC — Aldeas Infantiles SOS
-
-- Gestión de inventario tecnológico
-- Soporte técnico y mantenimiento
-- Verificación y optimización de infraestructura
-
----
-
-## 📡 Proyecto de Investigación — CICTE ESPE
-
-- Configuración de redes de radios militares
-- Análisis de tráfico con Wireshark
-- Captura y análisis de tramas Ethernet
-
----
-
-# 📜 Certificaciones
+# 📜 Certificados
 
 ✔ FortiGate 7.6 Operator  
 ✔ Technical Introduction to Cybersecurity  
