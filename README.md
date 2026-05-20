@@ -7,7 +7,7 @@
 
 ---
 
-<img align="right" alt="CyberSecurity" width="320" src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif">
+
 
 # 👩‍💻 Sobre mí
 
